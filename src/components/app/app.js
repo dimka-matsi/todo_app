@@ -1,5 +1,5 @@
 import React from 'react';
-import AppHeader from '../app-header/app-header';
+import AppHeader from '../app-header';
 import SearchPanel from '../search-panel/search-panel';
 import TodoList from '../todo-list/todo-list';
 import ItemStatusFilter from '../item-status-filter/item-status-filter';
